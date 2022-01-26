@@ -1,0 +1,2 @@
+.feedback-form{font-family:Open Sans,sans-serif;display:flex;flex-direction:column;max-width:480px;padding:12px;background-color:#fff;border:1px solid rgba(0,0,0,.12);border-radius:4px;color:#00ced1}.feedback-form label{display:flex;flex-direction:column;margin-bottom:16px}.feedback-form button{padding:8px 12px;font:inherit;background:#00ced1;cursor:pointer}button:active{background-color:#add8e6;box-shadow:0 5px 10px 2px rgba(34,60,80,.2)}input,textarea{padding:8px;font:inherit}textarea{resize:none}
+/*# sourceMappingURL=/feedback-form/src.84740238.css.map */
